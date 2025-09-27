@@ -9,7 +9,7 @@
 
 - 👯 I'm always open to **Collaboration and eager to contribute to exciting data-driven projects.**
 
-- 💬 Ask me about **Data Analysis, Data Engineering, Python, SQL, PySpark, Azure, AWS, ETL, Hadoop, SnowFlake, Databricks, Power BI.**
+- 💬 Ask me about **Data Analysis, Data Engineering, Python, SQL, PySpark, Azure, ETL, Azure Databricks, SSIS, SnowFlake, Power BI.**
 
 - 📫 How to reach me **pendlianvesh@gmail.com**
 
